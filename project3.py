@@ -1,5 +1,4 @@
-#/Users/alhelal/Desktop/467 Chaya/proj3/
-
+#command python3 project3.py -p twitch_nft_demo.mp4 --output xls
 import argparse
 import csv
 import datetime
